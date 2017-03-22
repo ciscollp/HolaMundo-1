@@ -3,4 +3,10 @@
     <string name="titulo">Aplicación Saludar</string>
     <string name="saludar">Saludar</string>
     <string name="parte_saludo">Hola</string>
+    <string name="genero">genero</string>
+    <string name="estado_civil">estado civil</string>
+    <string name="soltero">soltero(a)</string>
+    <string name="casado">Casado(a)</string>
+    <string name="divorciado">divorciado(a)</string>
+    <string name="borrar">Borrar</string>
 </resources>
